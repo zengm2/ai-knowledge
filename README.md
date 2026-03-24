@@ -53,7 +53,7 @@ AI 基础概念 (01)
 | 1 | [机器学习规则如何形成模型](./QA-常见问题/机器学习规则如何形成模型.md) | 机器学习、模型形成、CNN、传统ML vs 深度学习 |
 | 2 | [机器学习程序如何输出模型](./QA-常见问题/机器学习程序如何输出模型.md) | 模型输出、参数保存、训练过程、模型文件 |
 | 3 | [大模型与传统模型的区别](./QA-常见问题/大模型与传统模型的区别.md) | 大语言模型、Transformer、预训练、涌现能力、RLHF |
-| 4 | [OpenClaw 开源AI助手分析](./QA-常见问题/OpenClaw开源AI助手分析.md) | OpenClaw、个人AI助手、开源、多渠道、Agent、Gateway、Skills |
+| 4 | [OpenClaw 开源AI助手分析](./QA-常见问题/OpenClaw开源AI助手分析.md) | OpenClaw、架构设计、代码结构、Gateway、WebSocket协议、Agent Loop、插件系统 |
 
 ---
 
