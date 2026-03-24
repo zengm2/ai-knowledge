@@ -54,6 +54,8 @@ AI 基础概念 (01)
 | 2 | [机器学习程序如何输出模型](./QA-常见问题/机器学习程序如何输出模型.md) | 模型输出、参数保存、训练过程、模型文件 |
 | 3 | [大模型与传统模型的区别](./QA-常见问题/大模型与传统模型的区别.md) | 大语言模型、Transformer、预训练、涌现能力、RLHF |
 | 4 | [OpenClaw 开源AI助手分析](./QA-常见问题/OpenClaw开源AI助手分析.md) | OpenClaw、架构设计、代码结构、Gateway、WebSocket协议、Agent Loop、插件系统 |
+| 5 | [OpenClaw 中的 Pi Agent 是什么](./QA-常见问题/OpenClaw中的PiAgent是什么.md) | Pi Agent、pi-mono、pi-agent-core、pi-ai、Agent 运行时、LLM API、工具调用 |
+| 6 | [不同人的 OpenClaw 差异在哪里](./QA-常见问题/OpenClaw不同人的差异在哪里.md) | 个性化、配置定制、SOUL.md、Skills、插件、模型选择、记忆系统、工作区 |
 
 ---
 
