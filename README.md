@@ -57,6 +57,16 @@ AI 基础概念 (01)
 | 5 | [OpenClaw 中的 Pi Agent 是什么](./QA-常见问题/OpenClaw中的PiAgent是什么.md) | Pi Agent、pi-mono、pi-agent-core、pi-ai、Agent 运行时、LLM API、工具调用 |
 | 6 | [不同人的 OpenClaw 差异在哪里](./QA-常见问题/OpenClaw不同人的差异在哪里.md) | 个性化、配置定制、SOUL.md、Skills、插件、模型选择、记忆系统、工作区 |
 | 7 | [模型训练后如何运行推理](./QA-常见问题/模型训练后如何运行推理.md) | 模型推理、Inference、前向传播、Tokenizer、自回归生成、采样策略、推理框架 |
+| 8 | [幂律关系与 Scaling Laws](./QA-常见问题/幂律关系与Scaling Laws.md) | 幂律关系、Power Law、Scaling Laws、收益递减、帕累托法则、大模型规模定律 |
+| 9 | [提示工程与提示词的区别](./QA-常见问题/提示工程与提示词的区别.md) | 提示工程、Prompt Engineering、提示词、Prompt、System Prompt、Few-shot、Chain-of-Thought |
+| 10 | [检索增强生成 RAG](./QA-常见问题/检索增强生成RAG.md) | RAG、检索增强生成、向量检索、Embedding、知识库问答、幻觉 |
+| 11 | [AI Agent 与 RAG 的关系](./QA-常见问题/AI Agent与RAG的关系.md) | AI Agent、RAG、ChatGPT、Claude Code、工具调用、向量检索、代码搜索、Agent 架构 |
+| 12 | [向量数据库原理与工作方式](./QA-常见问题/向量数据库原理与工作方式.md) | 向量数据库、Vector Database、Embedding、相似度搜索、ANN、HNSW、余弦相似度 |
+| 13 | [MCP 协议与使用方式](./QA-常见问题/MCP协议与使用方式.md) | MCP、Model Context Protocol、AI 工具连接、MCP Server、JSON-RPC、Function Calling |
+| 14 | [Manus Agent 分析](./QA-常见问题/Manus Agent分析.md) | Manus、AI Agent、虚拟计算机、多 Agent 协作、任务执行、交付物导向、浏览器自动化 |
+| 15 | [Manus 与 OpenClaw 对比](./QA-常见问题/Manus与OpenClaw对比.md) | Manus、OpenClaw、云端 vs 本地、任务执行 vs 私人助手、全渠道、个性化、开源 |
+| 16 | [Devin AI 软件工程师分析](./QA-常见问题/Devin AI软件工程师分析.md) | Devin、Cognition、AI 软件工程师、终端 Agent、subagent、MCP、Claude |
+| 17 | [Devin 与 Windsurf 的关系](./QA-常见问题/Devin与Windsurf的关系.md) | Devin、Windsurf、Cognition、Codeium、收购、AI 编辑器 vs AI Agent、OpenAI |
 
 ---
 
