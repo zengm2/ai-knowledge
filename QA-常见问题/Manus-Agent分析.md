@@ -88,5 +88,5 @@ Manus 代表了 AI 从"能说"到"能做"的演进方向，其核心价值在于
 
 - [06-大语言模型LLM](../06-大语言模型LLM/README.md) — Agent 架构
 - [07-AI实践与工具](../07-AI实践与工具/README.md) — AI 应用实践
-- [AI Agent 与 RAG 的关系](./AI Agent与RAG的关系.md) — Agent 技术栈对比
+- [AI Agent 与 RAG 的关系](./AI-Agent与RAG的关系.md) — Agent 技术栈对比
 - [MCP 协议与使用方式](./MCP协议与使用方式.md) — AI 工具连接协议

@@ -58,7 +58,7 @@ OpenClaw ≈ 私人厨师 → 越相处越合拍，但需要自己搭厨房
 
 ## 相关章节
 
-- [Manus Agent 分析](./Manus Agent分析.md) — Manus 架构与特色
+- [Manus Agent 分析](./Manus-Agent分析.md) — Manus 架构与特色
 - [OpenClaw 开源AI助手分析](./OpenClaw开源AI助手分析.md) — OpenClaw 完整架构
 - [OpenClaw 中的 Pi Agent](./OpenClaw中的PiAgent是什么.md) — OpenClaw 推理引擎
-- [AI Agent 与 RAG 的关系](./AI Agent与RAG的关系.md) — Agent 技术栈
+- [AI Agent 与 RAG 的关系](./AI-Agent与RAG的关系.md) — Agent 技术栈

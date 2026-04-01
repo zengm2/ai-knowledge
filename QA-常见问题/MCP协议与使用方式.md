@@ -117,4 +117,4 @@ MCP 定义了 AI 应用和工具服务之间的统一通信方式，让生态中
 
 - [06-大语言模型LLM](../06-大语言模型LLM/README.md) — Agent 与工具调用
 - [07-AI实践与工具](../07-AI实践与工具/README.md) — AI 工程实践
-- [AI Agent 与 RAG 的关系](./AI Agent与RAG的关系.md) — Agent 架构
+- [AI Agent 与 RAG 的关系](./AI-Agent与RAG的关系.md) — Agent 架构
