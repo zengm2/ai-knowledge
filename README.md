@@ -16,6 +16,10 @@
 | [06](./06-大语言模型LLM/README.md) | 大语言模型 (LLM) | :white_check_mark: 已完成 | GPT、BERT、提示工程、RAG、Agent |
 | [07](./07-AI实践与工具/README.md) | AI 实践与工具 | :white_check_mark: 已完成 | 框架、部署、MLOps、数据工程 |
 | [08](./08-AI伦理与未来/README.md) | AI 伦理与未来 | :white_check_mark: 已完成 | 偏见、安全、法规、AGI 展望 |
+| [09](./09-AI-Agent智能体/README.md) | AI Agent 智能体 | :white_check_mark: 已完成 | Agent 架构、工具调用、MCP、多智能体 |
+| [10](./10-多模态AI/README.md) | 多模态 AI | :white_check_mark: 已完成 | VLM、图像/视频生成、语音、跨模态融合 |
+| [11](./11-AI基础设施与算力/README.md) | AI 基础设施与算力 | :white_check_mark: 已完成 | GPU、分布式训练、推理优化、云计算 |
+| [12](./12-AI产品设计与商业化/README.md) | AI 产品设计与商业化 | :white_check_mark: 已完成 | 产品模式、商业化、成本、创业与职业 |
 
 ---
 
@@ -36,12 +40,24 @@ AI 基础概念 (01)
                               |
                               v
                       大语言模型 (06)
-                              |
-                              v
-                     AI 实践与工具 (07)
-                              |
-                              v
-                    AI 伦理与未来 (08)
+                         |       \
+                         v        v
+              AI Agent (09)   多模态 AI (10)
+                         |        |
+                         +---+----+
+                             |
+                             v
+                    AI 实践与工具 (07)
+                             |
+                    +--------+--------+
+                    |                 |
+                    v                 v
+          AI 基础设施 (11)   AI 产品设计 (12)
+                    |                 |
+                    +--------+--------+
+                             |
+                             v
+                   AI 伦理与未来 (08)
 ```
 
 ## QA 常见问题
@@ -69,6 +85,7 @@ AI 基础概念 (01)
 | 17 | [Devin 与 Windsurf 的关系](./QA-常见问题/Devin与Windsurf的关系.md) | Devin、Windsurf、Cognition、Codeium、收购、AI 编辑器 vs AI Agent、OpenAI |
 | 18 | [Caffe 框架与 AI 使用场景](./QA-常见问题/Caffe框架与AI使用场景.md) | Caffe、贾扬清、深度学习框架、计算机视觉、CNN、PyTorch、框架演变 |
 | 19 | [LLM 应用开发与 Agent 的区别](./QA-常见问题/LLM应用开发与Agent的区别.md) | LLM 应用开发、AI Agent、工具调用、自主决策、行动循环、复杂度光谱 |
+| 20 | [LLM 应用开发框架有哪些](./QA-常见问题/LLM应用开发框架有哪些.md) | LLM 框架、LangChain、LlamaIndex、LangGraph、CrewAI、AutoGen、DSPy、LiteLLM、Vercel AI SDK |
 
 ---
 
