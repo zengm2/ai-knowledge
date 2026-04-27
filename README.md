@@ -91,6 +91,8 @@ AI 基础概念 (01)
 | 19 | [LLM 应用开发与 Agent 的区别](./QA-常见问题/LLM应用开发与Agent的区别.md) | LLM 应用开发、AI Agent、工具调用、自主决策、行动循环、复杂度光谱 |
 | 20 | [LLM应用开发框架有哪些](./QA-常见问题/LLM应用开发框架有哪些.md) | LLM 框架、LangChain、LlamaIndex、LangGraph、CrewAI、AutoGen、DSPy、LiteLLM、Vercel AI SDK |
 | 21 | [Harness AI平台分析](./QA-常见问题/Harness-AI平台分析.md) | Harness、AI原生软件交付、DevOps、CI/CD、MLOps、AI Agent、软件交付知识图谱 |
+| 22 | [AI智能体推理能力实现](./QA-常见问题/AI智能体推理能力实现.md) | AI Agent、推理能力、Chain-of-Thought、ReAct、Tree of Thoughts、规划、记忆、工具调用 |
+| 23 | [CUDA是什么](./QA-常见问题/CUDA是什么.md) | CUDA、NVIDIA、GPU、并行计算、深度学习、CUDA核心、GPU加速 |
 
 ---
 
